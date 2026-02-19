@@ -7,7 +7,7 @@ Saya seorang analis data dengan latar belakang Geologi, fokus pada pengolahan da
 
 ## 🚀 Proyek Pilihan
 
-### 1. [Student Dropout Analytics]
+### 1. Student Dropout Analytics 🧑‍🎓
 Analisis faktor penyebab mahasiswa putus kuliah menggunakan teknik statistik dan visualisasi data untuk memberikan rekomendasi kebijakan akademik.
 
 ![Preview Proyek](https://github.com/abrarargya/student-dropout-analytics/blob/main/abrar_argya_adana-dashboard.jpg)
@@ -28,7 +28,7 @@ Analisis faktor penyebab mahasiswa putus kuliah menggunakan teknik statistik dan
 - **Tech Stack:** Python, TensorFlow/Scikit-learn.
 - [**Lihat Kode di GitHub**](https://github.com/abrarargya/next-step-karierku)
 
-### 3. [HR Analytics: Employee Attrition Prediction](https://github.com/abrarargya/HR-Analytics-Attrition-Prediction)
+### 3. HR Analytics: Employee Attrition Prediction 👤
 Proyek end-to-end untuk memprediksi probabilitas karyawan akan resign. Mencakup identifikasi faktor utama penyebab *churn* dan pembuatan dashboard monitoring real-time.
 
 
