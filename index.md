@@ -30,7 +30,7 @@ Analisis faktor penyebab mahasiswa putus kuliah menggunakan teknik statistik dan
 - **Role:** Group Leader & Data Scientist.
 - **Kontribusi:** Membangun modul **Skill Gap Analysis** yang membandingkan skill pengguna saat ini dengan kebutuhan pasar kerja.
 - **Tech Stack:** Python, TensorFlow/Scikit-learn.
-- [**Lihat Kode di GitHub**](https://github.com/abrarargya/next-step-karierku)
+- [**Lihat Kode di GitHub**](https://github.com/muhanangmahrub/Career-Path-Navigator.git)
 
 ### 3. HR Analytics: Employee Attrition Prediction 👤
 Proyek end-to-end untuk memprediksi probabilitas karyawan akan resign. Mencakup identifikasi faktor utama penyebab *churn* dan pembuatan dashboard monitoring real-time.
