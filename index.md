@@ -1,29 +1,49 @@
 # Halo, Saya Abrar Argya 👋
-*Data Analyst Intern | Geologist*
+### Data Analyst Intern | Geologist
 
-Saya seorang analis data dengan latar belakang Geologi, fokus pada pengolahan data menggunakan Python. Saat ini saya sedang magang sebagai Data Analyst di PT Ramayana Makmur Sentosa.
+Saya seorang analis data dengan latar belakang Geologi, fokus pada pengolahan data menggunakan Python. Saat ini saya sedang magang sebagai **Data Analyst** di **PT Ramayana Makmur Sentosa** dan aktif mengembangkan solusi berbasis data.
 
 ---
 
 ## 🚀 Proyek Pilihan
 
-### 1. [Student Dropout Analytics](https://github.com/abrarargya/student-dropout-analytics.git)
-Analisis faktor penyebab mahasiswa putus kuliah menggunakan teknik statistik dan visualisasi data.
+### 1. [Student Dropout Analytics]
+Analisis faktor penyebab mahasiswa putus kuliah menggunakan teknik statistik dan visualisasi data untuk memberikan rekomendasi kebijakan akademik.
 
-### 2. [Next Step: Karierku](https://github.com/muhanangmahrub/Career-Path-Navigator.git)
-**Role: Group Leader & Data Scientist**
+![Preview Proyek](https://github.com/abrarargya/student-dropout-analytics/blob/main/abrar_argya_adana-dashboard.jpg)
 
-Sistem analisis jalur karier berbasis Machine Learning. Saya bertanggung jawab pada modul *Skill Gap Analysis*.
+- **Tools:** Python, Pandas, Scikit-learn, Matplotlib, Metabase, Supabase.
+- **Insight Utama:** Menemukan bahwa faktor ekonomi dan prestasi akademik semester 2 menjadi indikator terkuat risiko dropout.
+- [**Lihat Kode di GitHub**](https://github.com/abrarargya/student-dropout-analytics)
 
-### 3. [HR Analytics: Employee Attrition Prediction & Dashboard](https://github.com/abrarargya/HR-Analytics-Attrition-Prediction.git)
-Memprediksi probabilitas karyawan akan resign, mengidentifikasi faktor utama penyebab churn, dan menyediakan dashboard monitoring real-time.
+
+
+
+
+### 2. Next Step: Karierku (Group Project) 💼
+*Sistem navigasi karier berbasis Machine Learning.*
+
+- **Role:** Group Leader & Data Scientist.
+- **Kontribusi:** Membangun modul **Skill Gap Analysis** yang membandingkan skill pengguna saat ini dengan kebutuhan pasar kerja.
+- **Tech Stack:** Python, TensorFlow/Scikit-learn.
+- [**Lihat Kode di GitHub**](https://github.com/abrarargya/next-step-karierku)
+
+### 3. [HR Analytics: Employee Attrition Prediction](https://github.com/abrarargya/HR-Analytics-Attrition-Prediction)
+Proyek end-to-end untuk memprediksi probabilitas karyawan akan resign. Mencakup identifikasi faktor utama penyebab *churn* dan pembuatan dashboard monitoring real-time.
+
+
+- **Tools:** Python, Pandas, Scikit-learn, Matplotlib, Metabase, Supabase.
+- **Insight Utama:** The Overtime Trap: Karyawan yang sering lembur memiliki risiko resign 3x lipat lebih tinggi. Isu burnout sangat nyata.
+- [**Lihat Kode di GitHub**](https://github.com/abrarargya/HR-Analytics-Attrition-Prediction.git)
+
+- 
+---
+
+## 🛠️ Keahlian Teknis
+- **Programming:** Python (Pandas, Scikit-learn), TensorFlow, SQL.
+- **Tools & Platform:** Streamlit, Metabase, Supabase, Git/GitHub, Google Sheets.
 
 ---
 
-## 🛠️ Skills
-- **Programming:** Python (Pandas, Scikit-learn), Tensorflow, dan SQL.
-- **Tools:** Git, GitHub, Google Sheets, Streamlit, Metabase, dan Supabase.
-
----
-
-[LinkedIn](www.linkedin.com/in/abrar-argya-adana) | [Email](abrar.argya7012@gmail.com)
+## 📫 Kontak
+[LinkedIn](https://www.linkedin.com/in/abrar-argya-adana) | [Email](mailto:abrar.argya7012@gmail.com)
