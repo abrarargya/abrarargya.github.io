@@ -40,9 +40,7 @@ Proyek end-to-end untuk memprediksi probabilitas karyawan akan resign. Mencakup 
 
 - **Tools:** Python, Pandas, Scikit-learn, Matplotlib, Metabase, Supabase.
 - **Insight Utama:** The Overtime Trap: Karyawan yang sering lembur memiliki risiko resign 3x lipat lebih tinggi. Isu burnout sangat nyata.
-- [**Lihat Kode di GitHub**](https://github.com/abrarargya/HR-Analytics-Attrition-Prediction.git)
-
-- 
+- [**Lihat Kode di GitHub**](https://github.com/abrarargya/HR-Analytics-Attrition-Prediction.git) 
 ---
 
 ## 🛠️ Keahlian Teknis
