@@ -10,7 +10,7 @@ Saya seorang analis data dengan latar belakang Geologi, fokus pada pengolahan da
 ### 1. Student Dropout Analytics 🧑‍🎓
 Analisis faktor penyebab mahasiswa putus kuliah menggunakan teknik statistik dan visualisasi data untuk memberikan rekomendasi kebijakan akademik.
 
-![Preview Proyek](https://github.com/abrarargya/student-dropout-analytics/blob/main/abrar_argya_adana-dashboard.jpg)
+![Preview Proyek](https://raw.githubusercontent.com/abrarargya/student-dropout-analytics/main/abrar_argya_adana-dashboard.jpg)
 
 - **Tools:** Python, Pandas, Scikit-learn, Matplotlib, Metabase, Supabase.
 - **Insight Utama:** Menemukan bahwa faktor ekonomi dan prestasi akademik semester 2 menjadi indikator terkuat risiko dropout.
@@ -24,7 +24,7 @@ Analisis faktor penyebab mahasiswa putus kuliah menggunakan teknik statistik dan
 *Sistem navigasi karier berbasis Machine Learning.*
 
 
-![Preview Proyek](![Preview Proyek](<iframe width="560" height="315" src="https://www.youtube.com/embed/XbDZEYHjOcA?si=2AigfjcazbLQGbA_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)
+[![Preview Proyek](https://img.youtube.com/vi/XbDZEYHjOcA/0.jpg)](https://www.youtube.com/watch?v=XbDZEYHjOcA)
 
 
 - **Role:** Group Leader & Data Scientist.
@@ -35,7 +35,7 @@ Analisis faktor penyebab mahasiswa putus kuliah menggunakan teknik statistik dan
 ### 3. HR Analytics: Employee Attrition Prediction 👤
 Proyek end-to-end untuk memprediksi probabilitas karyawan akan resign. Mencakup identifikasi faktor utama penyebab *churn* dan pembuatan dashboard monitoring real-time.
 
-![Preview Proyek](https://github.com/abrarargya/HR-Analytics-Attrition-Prediction/blob/main/Abrar%20Argya%20Adana-dashboard.png)
+![Preview Proyek](https://raw.githubusercontent.com/abrarargya/HR-Analytics-Attrition-Prediction/main/Abrar%20Argya%20Adana-dashboard.png)
 
 
 - **Tools:** Python, Pandas, Scikit-learn, Matplotlib, Metabase, Supabase.
