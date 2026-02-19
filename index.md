@@ -23,7 +23,6 @@ Memprediksi probabilitas karyawan akan resign, mengidentifikasi faktor utama pen
 ## 🛠️ Skills
 - **Programming:** Python (Pandas, Scikit-learn), Tensorflow, dan SQL.
 - **Tools:** Git, GitHub, Google Sheets, Streamlit, Metabase, dan Supabase.
-- **Domain:** Geospatial Data, Structural Geology.
 
 ---
 
