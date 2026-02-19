@@ -12,6 +12,7 @@ Analisis faktor penyebab mahasiswa putus kuliah menggunakan teknik statistik dan
 
 ### 2. [Next Step: Karierku](https://github.com/muhanangmahrub/Career-Path-Navigator.git)
 **Role: Group Leader & Data Scientist**
+
 Sistem analisis jalur karier berbasis Machine Learning. Saya bertanggung jawab pada modul *Skill Gap Analysis*.
 
 ### 3. [HR Analytics: Employee Attrition Prediction & Dashboard](https://github.com/abrarargya/HR-Analytics-Attrition-Prediction.git)
