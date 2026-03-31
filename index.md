@@ -7,9 +7,7 @@ layout: default
 ### Data Analyst Intern | Geologist
 
 Saya seorang analis data dengan latar belakang Geologi, fokus pada pengolahan data menggunakan Python. Saat ini saya sedang magang sebagai **Data Analyst** di **PT Ramayana Makmur Sentosa** dan aktif mengembangkan solusi berbasis data.
-
 ---
-
 <style>
   .project-grid {
     display: grid;
@@ -89,7 +87,6 @@ Saya seorang analis data dengan latar belakang Geologi, fokus pada pengolahan da
   </div>
 
 </div>
-
 ## 🛠️ Keahlian Teknis
 - **Programming:** Python (Pandas, Scikit-learn), TensorFlow, SQL.
 - **Tools & Platform:** Streamlit, Metabase, Supabase, Git/GitHub, Google Sheets.
