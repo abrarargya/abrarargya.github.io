@@ -7,6 +7,7 @@ layout: default
 ### Data Analyst Intern | Geologist
 
 Saya seorang analis data dengan latar belakang Geologi, fokus pada pengolahan data menggunakan Python. Saat ini saya sedang magang sebagai **Data Analyst** di **PT Ramayana Makmur Sentosa** dan aktif mengembangkan solusi berbasis data.
+
 ---
 <style>
   .project-grid {
@@ -64,7 +65,8 @@ Saya seorang analis data dengan latar belakang Geologi, fokus pada pengolahan da
     <div class="tag-container">
       <span class="tag">Python</span><span class="tag">Scikit-learn</span><span class="tag">Supabase</span>
     </div>
-    <p>Predicting student attrition risk. Identified that 2nd-semester academic performance is the strongest predictor.</p>
+    <p>Jaya Jaya Institut menghadapi tingginya angka dropout mahasiswa yang sulit dideteksi sejak dini, sehingga diperlukan solusi berbasis data untuk mengatasinya. Dikembangkan sistem end-to-end meliputi analisis data, model Machine Learning (Random Forest) untuk prediksi risiko, dashboard monitoring (Metabase), serta aplikasi web (Streamlit) bagi staf akademik. Hasilnya, model mencapai akurasi 74.8% dengan recall dropout 74%, memungkinkan deteksi dini mahasiswa berisiko dan mendukung intervensi yang lebih tepat untuk menurunkan angka dropout secara signifikan.</p>
+    <a href="https://student-dropout-analytics.streamlit.app/" class="btn-view">View Demo</a>
     <a href="https://github.com/abrarargya/student-dropout-analytics" class="btn-view">View on GitHub</a>
   </div>
 
@@ -73,7 +75,7 @@ Saya seorang analis data dengan latar belakang Geologi, fokus pada pengolahan da
     <div class="tag-container">
       <span class="tag">Python</span><span class="tag">SQL</span><span class="tag">Metabase</span>
     </div>
-    <p>Identified "The Overtime Trap": Employees with frequent overtime have a 3x higher resignation risk due to burnout.</p>
+    <p>PT Jaya Jaya Maju menghadapi tingkat attrition karyawan di atas 10% tanpa sistem deteksi dini, sehingga sering kehilangan talenta penting tanpa peringatan. Untuk mengatasinya, dikembangkan solusi end-to-end berbasis data yang mencakup preprocessing (SMOTE & feature engineering), pemodelan dengan berbagai algoritma dan memilih Artificial Neural Network (ANN) sebagai model terbaik, serta deployment melalui script prediksi dan dashboard Metabase untuk monitoring real-time. Hasilnya, model mencapai akurasi 75% dengan recall 58% pada kelas attrition, mampu mengidentifikasi karyawan berisiko keluar lebih awal, serta menghasilkan insight penting seperti dampak lembur, kesenjangan gaji, dan kepuasan kerja yang dapat digunakan HR untuk strategi retensi yang lebih efektif..</p>
     <a href="https://github.com/abrarargya/HR-Analytics-Attrition-Prediction" class="btn-view">View on GitHub</a>
   </div>
 
@@ -82,7 +84,7 @@ Saya seorang analis data dengan latar belakang Geologi, fokus pada pengolahan da
     <div class="tag-container">
       <span class="tag">TensorFlow</span><span class="tag">Lead Role</span><span class="tag">ML</span>
     </div>
-    <p>Led the team in building a skill gap analysis module to align user skills with market demands.</p>
+    <p>Tingkat pengangguran di Indonesia masih didominasi lulusan menengah hingga perguruan tinggi, yang menunjukkan adanya kesenjangan antara kualifikasi pendidikan dan kebutuhan industri. Untuk mengatasi hal ini, dikembangkan sistem Next Step: Karirku, sebuah Career Path Navigator berbasis Machine Learning dan NLP yang mengklasifikasikan bidang pekerjaan (MLP, akurasi 80,82%), mencocokkan lowongan secara semantik (Sentence Transformers & FAISS), serta menganalisis skill gap. Hasilnya, sistem mampu membantu pengguna menemukan jalur karier yang relevan, memahami kebutuhan skill pasar, dan meningkatkan kesiapan kerja secara lebih terarah.</p>
     <a href="https://demo-frontend-chi-eight.vercel.app/" class="btn-view">View Demo</a>
   </div>
 
