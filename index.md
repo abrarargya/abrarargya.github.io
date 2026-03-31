@@ -86,6 +86,7 @@ Saya seorang analis data dengan latar belakang Geologi, fokus pada pengolahan da
     </div>
     <p>Tingkat pengangguran di Indonesia masih didominasi lulusan menengah hingga perguruan tinggi, yang menunjukkan adanya kesenjangan antara kualifikasi pendidikan dan kebutuhan industri. Untuk mengatasi hal ini, dikembangkan sistem Next Step: Karirku, sebuah Career Path Navigator berbasis Machine Learning dan NLP yang mengklasifikasikan bidang pekerjaan (MLP, akurasi 80,82%), mencocokkan lowongan secara semantik (Sentence Transformers & FAISS), serta menganalisis skill gap. Hasilnya, sistem mampu membantu pengguna menemukan jalur karier yang relevan, memahami kebutuhan skill pasar, dan meningkatkan kesiapan kerja secara lebih terarah.</p>
     <a href="https://demo-frontend-chi-eight.vercel.app/" class="btn-view">View Demo</a>
+    <a href="https://github.com/muhanangmahrub/Career-Path-Navigator" class="btn-view">View on GitHub</a>
   </div>
 
 </div>
